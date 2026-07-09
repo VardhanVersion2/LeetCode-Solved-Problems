@@ -48,10 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0310-minimum-height-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0310-minimum-height-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -89,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0496-next-greater-element-i) |
+## Graph Theory
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0310-minimum-height-trees) |
+## Topological Sort
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
