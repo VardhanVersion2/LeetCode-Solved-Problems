@@ -27,7 +27,7 @@ class Solution {
 
 
 
-    maxTreeDepth = Math.max(maxL,maxR)+1;
+    maxTreeDepth = Math.max(maxL,maxR)+1 ;
 
     return maxTreeDepth;
     }
