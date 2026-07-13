@@ -124,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0222-count-complete-tree-nodes) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
