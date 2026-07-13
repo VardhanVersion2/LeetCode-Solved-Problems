@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0704-binary-search) |
 ## Tree
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0222-count-complete-tree-nodes) |
 ## String
 |  |
 | ------- |
@@ -117,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0010-regular-expression-matching) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
