@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0145-binary-tree-postorder-traversal) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0145-binary-tree-postorder-traversal) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0112-path-sum) |
 | [0310-minimum-height-trees](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0310-minimum-height-trees) |
 ## Binary Tree
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0145-binary-tree-postorder-traversal) |
