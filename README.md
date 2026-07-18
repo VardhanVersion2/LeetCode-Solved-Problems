@@ -1,5 +1,79 @@
 # LeetCode-Solved-Problems
+
+# 🎯 Crack the Code: Core DSA Engineering
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/Synced%20With-LeetHub%20v2-blue?style=for-the-badge&logo=github" alt="LeetHub v2" />
+  <img src="https://img.shields.io/badge/Status-Actively%20Updating-success?style=for-the-badge" alt="Status" />
+</p>
+
+---
+
+## 🚀 Overview
+
+Welcome to my central algorithm repository! This space serves as a transparent tracking log of my journey through advanced technical interview preparation, runtime optimizations, and rigorous Data Structures & Algorithms (DSA). 
+
+Every solution contained here is fully tested, optimized for both time and space complexity, and automatically synced directly from the interview battlefield.
+
+> **Note:** Automated synchronization and structured commit logs are powered natively by the [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0) engine.
+
+---
+
+## 🛠️ Technical Matrix
+
+* **Primary Language:** Java (100% Type-Safe Implementation)
+* **Focus Areas:** Runtime Efficiency, Space Minimization, Scalable Code Design
+* **Automation Workflow:** Chrome Expansion Runtime Sync to GitHub
+
+---
+
+## 📚 DSA Concept Directory
+
+Below is the architectural breakdown of algorithmic concepts mastered throughout this repository. Each module contains production-grade solutions ranging from basic structural manipulations to complex dynamic programs.
+
+### 🧱 Linear & Primitive Structures
+* **Arrays & Matrices:** Continuous allocation patterns, index swapping, multi-dimensional search optimization.
+* **Strings:** Pattern matching, window boundaries, regular expression engines.
+* **Linked Lists:** Pointer mechanics, cycle detections, structure reversals.
+* **Stacks & Queues:** Monotonic variations, depth/breadth temporary caches, validation systems.
+* **Hash Tables:** $O(1)$ amortized lookups, collision mappings, prefix running tallies.
+
+### 🌲 Non-Linear & Hierarchical Systems
+* **Trees & Binary Trees:** Level-order traversals, depth valuations, balancing mechanics.
+* **Graph Theory:** Vertex paths, tree height minimizations, structural cycles.
+* **Topological Sort:** Dependency graphs, precedence mappings.
+
+### ⚙️ Algorithmic Paradigms & Optimizations
+| Strategy | Core Applications Covered |
+| :--- | :--- |
+| **Greedy Method** | Local optimization modeling, pair-sum minimizations, interval selections. |
+| **Two Pointers** | Fast/slow spacing, boundary closures, multi-reference iterations. |
+| **Binary Search** | Divide-and-conquer domain reduction, search optimizations. |
+| **DFS & BFS** | Exhaustive search patterns, shortest path calculations, tree/graph structural validation. |
+| **Dynamic Programming** | Optimal substructure parsing, recursive memorization, string alignments. |
+| **Bit Manipulation** | Low-level bitwise masking, Boolean operations. |
+
+---
+
+## 📈 Performance Tracking Strategy
+
+Every codebase modification undergoes strict tracking parameters directly within the commit histories:
+* **Time Complexity Analysis:** Measured execution speeds evaluated against the global LeetCode distribution curve.
+* **Space Complexity Analysis:** Total memory overhead optimization tracking.
+* **Regression Management:** Code structure is refactored continuously to ensure optimal memory isolation.
+
+---
+
+## 🏁 Let's Connect
+
+Are you building an engineering team, looking to collaborate on complex architecture, or just want to talk performance optimization? Let's talk shop.
+
+* **GitHub Profile:** [@VardhanVersion2](https://github.com/VardhanVersion2)
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+
+BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
