@@ -80,6 +80,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0018-4sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -95,6 +96,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0011-container-with-most-water) |
 | [1833-maximum-ice-cream-bars](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sorting
@@ -113,6 +115,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0018-4sum) |
 | [0086-partition-list](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0086-partition-list) |
