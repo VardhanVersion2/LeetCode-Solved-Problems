@@ -92,6 +92,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 | [0704-binary-search](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0704-binary-search) |
 | [1833-maximum-ice-cream-bars](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2029-stone-game-ix](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/2029-stone-game-ix) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Greedy
 |  |
@@ -99,6 +100,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 | [0011-container-with-most-water](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0011-container-with-most-water) |
 | [1833-maximum-ice-cream-bars](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2029-stone-game-ix](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/2029-stone-game-ix) |
 ## Sorting
 |  |
 | ------- |
@@ -112,6 +114,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1833-maximum-ice-cream-bars) |
+| [2029-stone-game-ix](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/2029-stone-game-ix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -258,4 +261,24 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
+## Math
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/2029-stone-game-ix) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
