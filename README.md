@@ -90,6 +90,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 | [0496-next-greater-element-i](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0704-binary-search) |
+| [1563-stone-game-v](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1563-stone-game-v) |
 | [1833-maximum-ice-cream-bars](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2029-stone-game-ix](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/2029-stone-game-ix) |
@@ -131,6 +132,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 | ------- |
 | [0010-regular-expression-matching](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0010-regular-expression-matching) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1563-stone-game-v](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1563-stone-game-v) |
 ## Binary Search
 |  |
 | ------- |
@@ -264,6 +266,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 ## Math
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -272,6 +275,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 ## Game Theory
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
