@@ -228,6 +228,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 | [0083-remove-duplicates-from-sorted-list](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0206-reverse-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -244,6 +245,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0010-regular-expression-matching) |
+| [0206-reverse-linked-list](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0206-reverse-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
