@@ -10,22 +10,23 @@
  */
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {
-    ListNode node = head;
-    if(node !=null)
+
+    ListNode curr = head;
+
+    while( curr !=null && curr.next !=null )
     {
-        while(node.next != null)
-        {
-            if(node.val == node.next.val)
-            {
-                node.next =  node.next.next;
-            }
-            else
-            {
-                node = node.next;
-            }
-            
-        }
-        
-    }return head;    
+      if(curr.val ==curr.next.val)   //detect not verify!!!!!!
+      {
+        curr.next = curr.next.next;
+      }
+      else
+      {
+        curr = curr.next;
+      }
+
     }
-}    
+
+    return head;
+
+    }
+}
