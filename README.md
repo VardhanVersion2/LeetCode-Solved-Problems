@@ -129,6 +129,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 | [0018-4sum](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0086-partition-list) |
+| [0142-linked-list-cycle-ii](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -206,6 +207,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0496-next-greater-element-i) |
@@ -229,6 +231,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0086-partition-list) |
+| [0142-linked-list-cycle-ii](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0206-reverse-linked-list) |
 ## Monotonic Stack
@@ -305,4 +308,8 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0523-continuous-subarray-sum) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
