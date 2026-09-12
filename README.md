@@ -127,6 +127,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 | [0011-container-with-most-water](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -225,6 +226,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0160-intersection-of-two-linked-lists) |
