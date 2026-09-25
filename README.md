@@ -93,6 +93,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 | [0560-subarray-sum-equals-k](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0881-boats-to-save-people) |
+| [0969-pancake-sorting](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1386-cinema-seat-allocation](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1563-stone-game-v) |
@@ -107,6 +108,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 | ------- |
 | [0011-container-with-most-water](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0881-boats-to-save-people) |
+| [0969-pancake-sorting](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0969-pancake-sorting) |
 | [1386-cinema-seat-allocation](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -118,6 +120,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 | [0018-4sum](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0018-4sum) |
 | [0347-top-k-frequent-elements](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0881-boats-to-save-people](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0881-boats-to-save-people) |
+| [0969-pancake-sorting](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -139,6 +142,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 | [0160-intersection-of-two-linked-lists](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0881-boats-to-save-people](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0881-boats-to-save-people) |
+| [0969-pancake-sorting](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
