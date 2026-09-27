@@ -122,6 +122,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 | [0881-boats-to-save-people](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1833-maximum-ice-cream-bars](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Counting Sort
@@ -173,6 +174,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 | [0144-binary-tree-preorder-traversal](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -185,6 +187,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 | [0144-binary-tree-preorder-traversal](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0310-minimum-height-trees](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0310-minimum-height-trees) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -207,6 +210,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 | [0144-binary-tree-preorder-traversal](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## String
 |  |
 | ------- |
@@ -337,4 +341,5 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0096-unique-binary-search-trees) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1305-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
