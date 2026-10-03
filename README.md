@@ -152,6 +152,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0010-regular-expression-matching) |
+| [0070-climbing-stairs](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0198-house-robber) |
@@ -306,6 +307,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0523-continuous-subarray-sum](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0523-continuous-subarray-sum) |
 | [1563-stone-game-v](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1563-stone-game-v) |
@@ -344,4 +346,8 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0096-unique-binary-search-trees) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1305-all-elements-in-two-binary-search-trees) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
