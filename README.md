@@ -97,6 +97,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 | [0881-boats-to-save-people](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1386-cinema-seat-allocation](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1563-stone-game-v) |
 | [1672-richest-customer-wealth](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1672-richest-customer-wealth) |
@@ -317,6 +318,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 | [0070-climbing-stairs](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0523-continuous-subarray-sum](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0523-continuous-subarray-sum) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1563-stone-game-v](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/2029-stone-game-ix) |
 ## Minimax
