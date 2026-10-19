@@ -80,6 +80,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0018-4sum) |
@@ -236,6 +237,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
