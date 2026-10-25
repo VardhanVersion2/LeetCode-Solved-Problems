@@ -159,6 +159,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 | ------- |
 | [0010-regular-expression-matching](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0198-house-robber) |
@@ -226,6 +227,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 | ------- |
 | [0010-regular-expression-matching](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0072-edit-distance) |
 ## Stack
 |  |
 | ------- |
