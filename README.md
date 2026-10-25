@@ -158,6 +158,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0010-regular-expression-matching) |
+| [0062-unique-paths](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0096-unique-binary-search-trees) |
@@ -319,6 +320,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0523-continuous-subarray-sum](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0523-continuous-subarray-sum) |
@@ -367,4 +369,8 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1672-richest-customer-wealth) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
