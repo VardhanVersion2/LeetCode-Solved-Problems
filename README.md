@@ -231,6 +231,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0072-edit-distance) |
@@ -246,6 +247,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
@@ -379,4 +381,8 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0062-unique-paths) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
