@@ -90,6 +90,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0213-house-robber-ii) |
+| [0283-move-zeroes](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -155,6 +156,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 | [0142-linked-list-cycle-ii](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0969-pancake-sorting) |
