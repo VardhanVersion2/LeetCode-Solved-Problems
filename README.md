@@ -330,6 +330,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0096-unique-binary-search-trees) |
