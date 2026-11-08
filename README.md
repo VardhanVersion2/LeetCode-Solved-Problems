@@ -98,6 +98,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 | [0523-continuous-subarray-sum](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -183,6 +184,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 | [0222-count-complete-tree-nodes](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Tree
 |  |
 | ------- |
@@ -392,4 +394,8 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
