@@ -89,6 +89,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0213-house-robber-ii) |
@@ -184,6 +185,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 | [0033-search-in-rotated-sorted-array](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
