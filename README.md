@@ -129,6 +129,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 | [1833-maximum-ice-cream-bars](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2029-stone-game-ix](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/2029-stone-game-ix) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sorting
 |  |
 | ------- |
@@ -350,6 +351,7 @@ BELOW IS THE COMPLETE PROGRESS I HAVE DONE IN LEETCODE.
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1563-stone-game-v](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/2029-stone-game-ix) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/VardhanVersion2/LeetCode-Solved-Problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Minimax
 |  |
 | ------- |
